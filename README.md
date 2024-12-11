@@ -1,36 +1,33 @@
-# Health-Insurance-Claims
-This project explores the relationship between demographic factors, health conditions, and lifestyle choices on insurance claims. Using comprehensive analysis, it identifies key risk patterns to help insurers make informed decisions and optimize claims management. 
+# Health Insurance Claims Analysis: Impact of Demographics and Risk Factors
 
-# Health Insurance Claims Analysis: Impact of Demographics and Risk Factors  
+## Project Overview
+This project explores health insurance claims to uncover cost drivers, analyze claim outcomes, and identify disparities across demographics and risk factors.
 
-## 📊 Project Overview  
-This project explores the relationship between demographic factors, health conditions, and lifestyle choices on insurance claims. Using comprehensive analysis, it identifies key risk patterns to help insurers make informed decisions and optimize claims management.  
+## Objectives
+- Analyze trends in health insurance claims.
+- Identify key cost drivers and approval disparities.
+- Provide actionable insights for policy optimization.
 
-## 🚀 Key Insights  
-- Higher claims observed in regions with elevated BMI and blood pressure levels.  
-- Age and smoking habits are significant predictors of claim frequency.  
-- Regional disparities in claims highlight varying risk patterns.  
+## Tools and Technologies
+- **Excel:** Data cleaning and preprocessing.
+- **Python:** Advanced statistical modeling.
+- **Power BI:** Visual dashboards for claims analysis.
 
-## 🛠️ Technologies Used  
-- **Python**: Data analysis and visualization.  
-- **SQL**: Data extraction and preprocessing.  
-- **Power BI**: Interactive dashboard creation.  
+## Key Features
+1. KPIs: Total claims, approval rates, and average costs.
+2. Visualizations: Line charts, bar charts, and geo-maps.
+3. Insights: Tailored recommendations for reducing costs and disparities.
 
-## 📈 Visualizations  
-- Overview of the dashboard:  
-  ![Dashboard Overview](visuals/dashboard-overview.png)  
 
-- Demographic Analysis:  
-  ![Demographic Analysis](visuals/demographic-analysis.png)  
+## Insights
+- Older individuals and chronic conditions drive higher claims.
+- Approval disparities highlight areas for policy intervention.
+- Tailored health plans can mitigate risk and reduce costs.
 
-- Risk Patterns by Region:  
-  ![Risk Patterns](visuals/risk-patterns.png)  
+## How to Use
+1. Download the cleaned dataset and .pbix file.
+2. Explore the Power BI dashboard interactively.
+3. Read `Insights.pdf` for analysis summaries.
 
-## 🗂️ Dashboard Files  
-- **Interactive Dashboard (Power BI File)**: [Download Here](Health-Insurance-Claims-Dashboard.pbix)  
-- **PDF Version**: [Download Here](Health-Insurance-Claims-Dashboard.pdf)  
-
-## 🔗 How to Explore  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/YourUsername/Health-Insurance-Claims-Analysis.git
+## Contact
+For collaborations or feedback, contact me via [LinkedIn](https://www.linkedin.com/in/melvonmashele/).
